@@ -45,7 +45,6 @@ This is a simple console-based Sudoku game implemented in C++. The program gener
 
 ## Future Improvements
 - **There may be a case that a game board is generated that is not solvable. This indicates the requirement of a solver, which will be included soon.**
-- Implement a Sudoku solver to check for solvable boards.
 - Improve the UI with a graphical interface.
 - Add a hint system to assist players.
 - Make it platform-independent by removing `Beep()` or replacing it with a cross-platform alternative.
